@@ -1,3 +1,5 @@
 Here is my new file.
 
 Here is a change made by a friend.
+
+That is a great change friend. Great Idea.
