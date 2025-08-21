@@ -17,4 +17,4 @@ Numbered list
 3. Third Item
 
 I like Git!
-I really do mean that I like Git SCM.
+I really do mean that I like Git SCM!
